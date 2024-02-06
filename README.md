@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jenn & as a leader in startups for the last seven years, I found myself bootstrapped and figuring stuff out on my own, including teaching myself SQL and using tools such as Looker & Metabase. 📊
+- 👋 Hi, I’m Jenn & as a 4x early-stage startup survivor, I found myself bootstrapped and figuring stuff out on my own, including teaching myself SQL and using tools such as Looker & Metabase. 📊
   - This experience has given me the opportunity to wear many (so many!) 🤠👒🎩, and a hat that I wear often is my data analyst 🎩 (the fanciest hat, as you can see!).
 
 - ⚙️ I also learned Airtable and how to build automations with Zapier and Integromat (now Make).
